@@ -12,3 +12,15 @@ This project demonstrates how to create **multi-plot dashboards** in Python usin
 fig, axes = plt.subplots(nrows=2, ncols=2)  # 2x2 grid
 axes[0,0].plot(...)  # Access subplots by index
 plt.savefig("dashboard.png")  # Export for sharing
+
+How to Run
+Install dependencies:
+
+bash
+Copy
+pip install matplotlib numpy  
+Run the script:
+
+bash
+Copy
+python dashboard_tutorial.py  
