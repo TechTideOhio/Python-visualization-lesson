@@ -1,4 +1,27 @@
-# 📊 Python Data Dashboard Tutorial
+## 📌 About This Project
+A beginner-friendly tutorial for creating multi-panel data dashboards using Matplotlib.
+
+## 🚀 Quick Start
+```bash
+# 1. Clone this repository
+git clone https://github.com/your-username/python-dashboard-tutorial.git
+
+# 2. Install requirements
+pip install -r requirements.txt
+
+# 3. Run the script
+python dashboard_tutorial.py
+```
+📂 Project Structure
+
+## 📊 Python Data Dashboard Tutorial
+```
+python-dashboard-tutorial/
+├── dashboard_tutorial.py  # Main script
+├── dashboard.png         # Sample output
+├── README.md            # Documentation
+└── requirements.txt     # Dependencies
+```
 
 This project shows how to create multi-panel data dashboards using Python's Matplotlib library.
 
@@ -38,3 +61,4 @@ This project shows how to create multi-panel data dashboards using Python's Matp
    ```bash
    pip install matplotlib numpy
    python dashboard_tutorial.py
+```
